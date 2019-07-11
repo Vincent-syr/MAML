@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #  MAML-Pytorch
 PyTorch implementation of the supervised learning experiments from the paper:
 [Model-Agnostic Meta-Learning (MAML)](https://arxiv.org/abs/1703.03400).
@@ -89,3 +90,12 @@ For 5-way 1-shot exp., it allocates nearly 3GB GPU memory.
   commit = {master}
 }
 ```
+=======
+# MAML
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks
+
+## ref: 
+1. paper: [Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://arxiv.org/abs/1703.03400)
+1. [MAML-pytorch](https://github.com/dragen1860/MAML-Pytorch)
+1. official code with tensorflow   [Code for "Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks](https://github.com/cbfinn/maml)
+>>>>>>> b7fb24eeca32eaf2db1dea4ab18f1adb805057aa
